@@ -12,7 +12,7 @@ This beginner-level SQL project aims to demonstrate data analysis skills by expl
 ### Project Structure:
 
 1. **Database Setup**:
-   - Create a database named `sql_project`.
+   - Create a database named `retail_project`.
    - Create a table named `retail_sales` to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
